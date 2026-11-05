@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
-  <defs>
-    <linearGradient id="background" x2="100%" y2="100%" gradientUnits="objectBoundingBox">
-      <stop stop-color="#edf6f0"/>
-      <stop offset="1" stop-color="#d5e8df"/>
-    </linearGradient>
-  </defs>
-  <path fill="url(#background)" d="M0 0h180v180H0z"/>
-  <path transform="translate(24 31) scale(1.74)" fill="none" stroke="#567568" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M38 59C10 52 3 34 8 22c17 0 28 11 30 37Zm0 0c28-7 35-25 30-37-17 0-28 11-30 37Zm0-14C22 32 24 15 38 5c14 10 16 27 0 40Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180"><defs><linearGradient id="background" x2="100%" y2="100%"><stop stop-color="#edf6f0"/><stop offset="1" stop-color="#d5e8df"/></linearGradient></defs><path fill="url(#background)" d="M0 0h180v180H0z"/><path transform="translate(24 31) scale(1.74)" fill="none" stroke="#567568" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M38 59C10 54 2 42 5 32c12 0 25 9 33 27Zm0 0c28-5 36-17 33-27-12 0-25 9-33 27Zm0 0C17 49 10 32 14 19c14 4 23 20 24 40Zm0 0c21-10 28-27 24-40-14 4-23 20-24 40Zm0 0C25 42 25 21 38 6c13 15 13 36 0 53Z"/></svg>
